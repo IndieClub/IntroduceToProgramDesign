@@ -1,23 +1,24 @@
-# 系统策划
+# 如何使用
 
-目前说明书版本相当于alpha版本,给大家提供这个概念, 我们使用的是beta版本.
+1. [安装gitbook](https://blog.csdn.net/hiwoshixiaoyu/article/details/89303625)
+2. 运行脚本
+```shell
+sh run.sh
+```
+3. 打开 http://localhost:4000
 
-当我们熟练后,将会把新版本上传上去
+## 捐赠
 
-这个版本有过多的专业术语,目前.
-仅适合业内人士观摩
+笔者在编写的时候,连吃饭的现金都没有了.
+还请大家觉得有用给点钱,让我买一台新电脑,更好的写作.
 
+![捐赠](捐赠.jpg)
 
-## 什么是系统策划
+## 无法编译
 
-系统策划,就是程序设计师,一个新的职业
+https://blog.csdn.net/wltsysterm/article/details/104442439
 
-## 系统策划的用途
+## 申请加入
 
-系统策划的用处是辅助开发
-
-对标https://machinations.io/
-
-machinations.io的目的是,辅助游戏体验和游戏数值的设定.
-
-游戏策划的目的是,辅助整体程序有条不紊的进行
+请发送您的简历至**jasonwidsom143@163.com**  
+如果没有及时回复,请开一个Issue
